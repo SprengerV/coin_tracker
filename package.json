@@ -1,0 +1,27 @@
+{
+  "name": "coin_tracker",
+  "version": "0.1.0",
+  "description": "A CLI for keeping track of your crypto investments.",
+  "main": "cointrack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SprengerV/coin_tracker.git"
+  },
+  "author": "Brendan Francis",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/SprengerV/coin_tracker/issues"
+  },
+  "homepage": "https://github.com/SprengerV/coin_tracker#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  }
+}
