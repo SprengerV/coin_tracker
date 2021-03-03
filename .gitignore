@@ -1,6 +1,9 @@
 # Scrap code
 99*
 
+# My saved coins
+savedCoins.json
+
 # ESLint 
 .eslint*
 
