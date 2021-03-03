@@ -1,6 +1,9 @@
 # Scrap code
 99*
 
+# ESLint 
+.eslint*
+
 # Logs
 logs
 *.log
